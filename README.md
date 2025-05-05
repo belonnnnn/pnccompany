@@ -1,3 +1,13 @@
+# PnC Company – Custom PC Builder Website
+
+Welcome to the official website for **PnC Company**, developed as part of a Digital Enterprise assignment. PnC specializes in building high-performance custom PCs for gamers, professionals, and everyday users.
+
+---
+
+## 🌐 Website URL
+
+Visit the live website here:  
+**https://https://belonnnnn.github.io/pnccompany/**  
 
 ---
 
