@@ -7,7 +7,7 @@ Welcome to the official website for **PnC Company**, developed as part of a Digi
 ## 🌐 Website URL
 
 Visit the live website here:  
-**https://https://belonnnnn.github.io/pnccompany/**  
+**https://belonnnnn.github.io/pnccompany/**  
 
 ---
 
