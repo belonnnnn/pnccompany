@@ -20,15 +20,6 @@ Visit the live website here:
 
 ---
 
-## 🚀 Deployment Guide
-
-1. Upload all files to a GitHub repository.
-2. Go to `Settings > Pages`.
-3. Under "Source", select `main` branch and root (`/`).
-4. GitHub will provide your free website URL.
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
