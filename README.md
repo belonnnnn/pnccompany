@@ -35,6 +35,8 @@
 
 ## 🧑‍💻 Developed by
 
-**[Your Name]**  
+**Muhammad Arief Irfan**  
+**Muhammad Adam**  
+**Nizar Aufa**  
 PnC Company – 2025
 
